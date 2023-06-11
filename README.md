@@ -1,3 +1,4 @@
+```
 /app
   {app-layout}
   <ToasterProvider>
@@ -22,4 +23,4 @@
           │   ├<TodoItem>
           │   └<TodoItem>
           └<Footer>
-    
+```
